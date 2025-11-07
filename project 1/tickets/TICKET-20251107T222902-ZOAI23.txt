@@ -1,0 +1,13 @@
+Ticket ID: TICKET-20251107T222902-ZOAI23
+Submitted: 2025-11-07T23:29:02.212+01:00
+
+Requester Information:
+- Name: Azim
+- Email: azim@apple.com
+
+Issue Details:
+- Category: Network
+- Priority: Medium
+- Description: slow internet speed
+
+Status: Open
