@@ -1,0 +1,13 @@
+Ticket ID: TICKET-20251107T222242-PZCK8V
+Submitted: 2025-11-07T23:22:42.936+01:00
+
+Requester Information:
+- Name: Sumithra
+- Email: sindoori09@gmail.com
+
+Issue Details:
+- Category: Software
+- Priority: High
+- Description: bokenscreen for laptop
+
+Status: Open
