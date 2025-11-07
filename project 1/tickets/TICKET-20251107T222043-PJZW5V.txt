@@ -1,0 +1,13 @@
+Ticket ID: TICKET-20251107T222043-PJZW5V
+Submitted: 2025-11-07T23:20:43.599+01:00
+
+Requester Information:
+- Name: Sreekanth
+- Email: skarangi@karangi.de
+
+Issue Details:
+- Category: Software
+- Priority: High
+- Description: ztoken issue
+
+Status: Open
