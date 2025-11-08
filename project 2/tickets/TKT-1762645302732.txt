@@ -1,0 +1,5 @@
+Prio: Not Urgent  
+Name: Sreekanth Karangi  
+Submitted: 2025-11-09T00:41:42.641+01:00  
+Description: AWS US Central outage. We use GCP.
+Reasoning(Priotity):The outage is related to AWS US Central, but the organization uses GCP, so the issue does not affect their systems or operations.
