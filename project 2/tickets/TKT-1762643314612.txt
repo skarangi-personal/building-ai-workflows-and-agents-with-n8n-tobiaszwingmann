@@ -1,0 +1,4 @@
+Prio: Not urgent  
+Name: Sreekanth Karangi  
+Submitted: 2025-11-09T00:08:34.507+01:00  
+Description: User passwords stolen. 50 million customers affected with a $1 billion revenue loss.
