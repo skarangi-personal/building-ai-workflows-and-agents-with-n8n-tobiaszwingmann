@@ -1,0 +1,13 @@
+Ticket ID: TICKET-20251112T094703-RUG6FH
+Submitted: 2025-11-12T10:47:03.526+01:00
+
+Requester Information:
+- Name: Sreekanth
+- Email: karangisreekanth@gmail.com
+
+Issue Details:
+- Category: Software
+- Priority: Low
+- Description: Slow internet speed
+
+Status: Open
