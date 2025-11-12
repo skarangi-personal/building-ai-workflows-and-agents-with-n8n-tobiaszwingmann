@@ -1,0 +1,5 @@
+Prio: Not Urgent  
+Name: Sreekanth karangi  
+Submitted: 2025-11-12T10:49:35.860+01:00  
+Description: AWS US East is having an outage. I work in EU central.
+Reasoning(Priotity):The outage is in AWS US East, but the user works in EU Central, so it likely does not affect their critical work tasks or operations.
